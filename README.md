@@ -1,7 +1,7 @@
 
 ![Plataforma de Streaming](https://github.com/IgorCavalcantiMoura/streaming/blob/main/midia/Live%20StreamTonight.png)
 
-# Backend para Plataforma de Streaming de Filmes 📺🎬🎥
+# API para Plataforma de Streaming de Filmes 📺🎬🎥
 ![Static Badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO%20-%20PROJETO%20EM%20ANDAMENTO)
 
 
